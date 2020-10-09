@@ -1,0 +1,3 @@
+[submodule "math-library"]
+	path = math-library
+	url = https://github.com/nljubevski/math-library.git
